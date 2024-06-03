@@ -36,7 +36,7 @@ By default, the plugin sends requests to the GROQ endpoint. You can change the e
 
 ## Example
 
-Select a piece of code in visual mode and press `<Leader>g` to get a response from the GPT model. The response will be inserted directly below the selected text, providing insights or improvements based on the selected snippet.
+Select a piece of code and corresponding questions/notes in visual mode and press `<Leader>g` to get a response from the GPT model. The response will be inserted directly below the selected text, providing insights or improvements based on the selected snippet.
 
 ## Notes
 
