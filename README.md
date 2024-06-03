@@ -19,6 +19,8 @@ Use your preferred plugin manager to install Architect.nvim. For example, with L
 
 ## Usage
 
+Suggested usage is to keep an empty text file open and prompt Architect from within it.
+
 ### Get Selected Text
 
 In visual mode, select the text you want to process and press `<Leader>g`. The plugin sends the selected text to a GPT model and inserts the response below the selected text.
